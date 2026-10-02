@@ -15,8 +15,6 @@
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python" width="50" title="Python" />
-<img src="https://skillicons.dev/icons?i=pyspark" width="50" title="PySpark" />
-<img src="https://skillicons.dev/icons?i=databricks" width="50" title="Databricks" />
 <img src="https://skillicons.dev/icons?i=azure" width="50" title="Azure" />
 <img src="https://skillicons.dev/icons?i=mysql" width="50" title="MySQL" />
 <img src="https://skillicons.dev/icons?i=git" width="50" title="Git" />
@@ -24,3 +22,5 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VS Code" />
 
 </p>
+
+**Data Engineering:** Python • SQL • PySpark • Databricks • Azure • Delta Lake • ETL/ELT • Medallion Architecture
